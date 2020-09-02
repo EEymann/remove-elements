@@ -1,4 +1,4 @@
-# _Adding to Arrays: push and unshift_
+# _Adding to Arrays: pop and shift_
 
 #### _This super short program demonstrates how to remove items to an array using the pop and shift methods in JavaScript. September 2020_
 
