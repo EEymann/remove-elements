@@ -6,7 +6,7 @@
 
 ## Description
 
-_These examples come from teamtreehouse.com. This program demonstrates how to remove items to an array using the pop and shift methods. Use the pop method to remove an item from the end of an array. Use the shift method to remove an item from the beginning of an array._
+_These examples come from teamtreehouse.com. This program demonstrates how to remove items from an array using the pop and shift methods. Use the pop method to remove an item from the end of an array. Use the shift method to remove an item from the beginning of an array._
 
 ## Setup/Installation Requirements
 
